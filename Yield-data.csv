@@ -1,0 +1,5 @@
+sample,MgO_wt_percent,yield_strength_MPa,role
+Control,0,98.0,baseline
+S1,5,120.1,reinforced
+S2,10,127.3,reinforced
+S3,15,104.6,reinforced
